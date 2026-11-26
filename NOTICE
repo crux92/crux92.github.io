@@ -1,0 +1,29 @@
+# 第三方组件与素材 / Third-Party Notices
+
+本站为 Hexo 生成的静态站点，包含以下第三方产物，均按其各自许可使用。
+
+## Hexo
+
+- 项目：https://github.com/hexojs/hexo
+- 许可：MIT
+- 用途：静态站点生成器（本站使用 v7.1.1）
+
+## hexo-theme-yun（主题 Yun）
+
+- 项目：https://github.com/YunYouJun/hexo-theme-yun
+- 作者：YunYouJun（云游君）
+- 许可：MIT
+- 用途：站点主题。构建产物或其修改版本包括：
+  `css/hexo-theme-yun.css`、`js/hexo-theme-yun.js`、`js/pjax.js`、`js/sidebar.js`、
+  `js/utils.js`、`js/say.js`、`js/ui/*`、`js/search/*`
+- MIT 要求：在所有副本或实质性部分中保留版权声明与本许可声明，本 NOTICE 即为履行该义务。
+  主题完整许可文本见 https://github.com/YunYouJun/hexo-theme-yun/blob/dev/LICENSE
+
+## 其他运行时依赖
+
+- pjax / instant.page 类脚本、搜索索引脚本等由主题与 Hexo 插件生成，随各自上游许可（多为 MIT）。
+- 图标、字体、头像及文章内引用的图片：如来自第三方资源，按其授权范围使用，不在本仓库许可内。
+
+---
+
+如你是上述项目的作者，认为这里的归属标注有误或缺失，请通过 about 页面的联系方式告知，会立即更正。
